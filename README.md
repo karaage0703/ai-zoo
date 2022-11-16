@@ -11,7 +11,7 @@ AIでマリオを全面クリアするチャレンジです。
 [マリオAIチャレンジ プロジェクトページ](https://karaage0703.github.io/mario-ai-challenge/)
 
 ## 遠隔操作ロボットアーム
-<video controls src="https://user-images.githubusercontent.com/5562157/131221555-2f8ccbe7-1608-4228-a45b-7cfdbc24f805.mp4"></video>
+<video controls width="640" src="https://user-images.githubusercontent.com/5562157/131221555-2f8ccbe7-1608-4228-a45b-7cfdbc24f805.mp4"></video>
 
 AIを使って遠隔操作できるロボットアームです。
 
@@ -26,7 +26,7 @@ AIを使って遠隔操作できるロボットアームです。
 
 
 ## AIルンバ
-https://twitter.com/karaage0703/status/1458828236553535493
+<video controls width="640" src="https://user-images.githubusercontent.com/5562157/202222401-c8e5764f-bec3-4c1a-b574-4d7dd4ca10fb.MOV"></video>
 
 AIで動くルンバです。
 
@@ -45,6 +45,6 @@ AIで人間を楽器にします。ブラウザで以下のサイトにいくだ
 [skeleton sequencer](https://karaage0703.github.io/daily-creative-coding/20220531_001_skeleton_sequencer_control)
 
 ## Tokyo2020-Pictogram-using-MediaPipe
-<video controls src="https://user-images.githubusercontent.com/37477845/127340964-5378706f-034a-4920-be23-c6fbca442686.mp4"></video>
+<video controls width="640" src="https://user-images.githubusercontent.com/37477845/127340964-5378706f-034a-4920-be23-c6fbca442686.mp4"></video>
 
 AIで姿勢推定を行い、Tokyo2020オリンピック風のピクトグラムを表示します。
