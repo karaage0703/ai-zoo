@@ -1,14 +1,16 @@
 # ai-zoo
 [AI Zoo project](https://karaage0703.github.io/ai-zoo/)
 
-作成中
-
 ## マリオAIチャレンジ
 ![ai_mario_1_1](https://user-images.githubusercontent.com/5562157/147713753-5851d402-4c9b-4885-8b9a-30ad38dd2cfe.gif)
 
 AIでマリオを全面クリアするチャレンジです。
 
 [マリオAIチャレンジ プロジェクトページ](https://karaage0703.github.io/mario-ai-challenge/)
+
+
+学習したAIマリオとRTA対戦できます
+<video controls width="640" src="https://user-images.githubusercontent.com/5562157/202223829-6325579e-07bd-492c-a151-9a6c23d4c8be.mp4"></video>
 
 ## 遠隔操作ロボットアーム
 <video controls width="640" src="https://user-images.githubusercontent.com/5562157/131221555-2f8ccbe7-1608-4228-a45b-7cfdbc24f805.mp4"></video>
