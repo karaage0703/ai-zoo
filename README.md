@@ -1,5 +1,12 @@
+<img src="https://raw.githubusercontent.com/karaage0703/ai-zoo/main/images/ai_zoo_cover.jpg" loading="lazy" width="640">
+
 # ai-zoo
 [AI Zoo project](https://karaage0703.github.io/ai-zoo/)
+
+## ai-zoo-keeper
+AIのパワーでどうぶつに変身して、AIどうぶつえんに入園できるアプリです。
+
+[AI Zoo Keeper](https://protopedia.net/prototype/3469)
 
 ## マリオAIチャレンジ
 ![ai_mario_1_1](https://user-images.githubusercontent.com/5562157/147713753-5851d402-4c9b-4885-8b9a-30ad38dd2cfe.gif)
